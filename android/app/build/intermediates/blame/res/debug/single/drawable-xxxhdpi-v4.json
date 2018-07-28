@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
         "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",

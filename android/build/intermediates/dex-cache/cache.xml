@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/Users/bognar_junior/Documents/GitHub/UsersList/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/pre-dexed/debug/classes_4d2d16d62d9c33a0f2efcff87d3b942359d4f34d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/bognar_junior/.android/build-cache/783cf64884efa3346dfc2abaed3c8394ff0c2a32/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"

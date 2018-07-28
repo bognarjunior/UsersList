@@ -12,12 +12,12 @@
         "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/bognar_junior/.android/build-cache/d88d69b2b442e7a06bb5eb32654e8d6a9f791656/output/res/layout/notification_action_tombstone.xml"
-    },
-    {
         "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
         "source": "/Users/bognar_junior/.android/build-cache/1f35d86cd9dd011aa0d3de3a0073fe18207e3a99/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/d88d69b2b442e7a06bb5eb32654e8d6a9f791656/output/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",

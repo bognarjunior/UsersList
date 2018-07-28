@@ -8,20 +8,20 @@
         "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable/abc_vector_test.xml"
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/d88d69b2b442e7a06bb5eb32654e8d6a9f791656/output/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/bognar_junior/.android/build-cache/d88d69b2b442e7a06bb5eb32654e8d6a9f791656/output/res/drawable/notification_tile_bg.xml"
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
