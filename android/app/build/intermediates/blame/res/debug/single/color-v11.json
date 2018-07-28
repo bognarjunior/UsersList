@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

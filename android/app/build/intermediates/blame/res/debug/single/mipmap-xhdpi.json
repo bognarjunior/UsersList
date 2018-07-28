@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/bognar_junior/Documents/GitHub/UsersList/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/bognar_junior/.android/build-cache/9dbe1369b5738fc228ed93f3980c03a7bf08d1f8/output/res/color/abc_tint_seek_thumb.xml"
+    }
+]
