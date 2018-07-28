@@ -1,4 +1,4 @@
-export const me = {
+const profile = {
   "gender": "male",
   "name": {
     "title": "mr",
@@ -35,3 +35,10 @@ export const me = {
   },
   "nat": "BR"
 };
+
+export const getUser = async () => {
+  return {
+    user: profile,
+    isFetch: true
+  }
+}

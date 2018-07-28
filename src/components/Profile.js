@@ -1,21 +1,36 @@
 import React, { Component } from 'react';
-import { ScrollView } from 'react-native';
+import { ScrollView, View, StyleSheet, ActivityIndicator } from 'react-native';
 import { Tile, List, ListItem, Button } from 'react-native-elements';
-import { me } from './../api/data';
+import { getUser } from './../api/data';
 
-class Profile extends Component {
+export default class Profile extends Component {
+  state = {
+    user: {},
+    isFetch: false
+  }
+
+  componentDidMount() {
+    this.fetchUser();
+  }
+
+  fetchUser = async () => {
+    const data =  await getUser();
+    console.log('data', data)
+    this.setState({ user: data.user });
+    this.setState({ isFetch: data.isFetch });
+  }
+
   handleSettingsPress = () => {
     this.props.navigation.navigate('Settings');
   };
 
-  render() {
-    return (
-      <ScrollView>
-        <Tile
-          imageSrc={{ uri: this.props.picture.large}}
+  renderProfile = () => (
+    <View>
+      <Tile
+          imageSrc={{ uri: this.state.user.picture.large}}
           featured
-          title={`${this.props.name.first.toUpperCase()} ${this.props.name.last.toUpperCase()}`}
-          caption={this.props.email}
+          title={`${this.state.user.name.first.toUpperCase()} ${this.state.user.name.last.toUpperCase()}`}
+          caption={this.state.user.email}
         />
 
         <Button
@@ -27,12 +42,12 @@ class Profile extends Component {
         <List>
           <ListItem
             title="Email"
-            rightTitle={this.props.email}
+            rightTitle={this.state.user.email}
             hideChevron
           />
           <ListItem
             title="Telefone"
-            rightTitle={this.props.phone}
+            rightTitle={this.state.user.phone}
             hideChevron
           />
         </List>
@@ -40,23 +55,43 @@ class Profile extends Component {
         <List>
           <ListItem
             title="Github"
-            rightTitle={this.props.login.username}
+            rightTitle={this.state.user.login.username}
             hideChevron
           />
         </List>
 
         <List>
           <ListItem
-            title="City"
-            rightTitle={this.props.location.city}
+            title="Cidade"
+            rightTitle={this.state.user.location.city}
             hideChevron
           />
         </List>
-      </ScrollView>
+      </View>
+  );
+
+  render() {
+    return (
+      <View style={{ flex: 1 }}>
+        { !this.state.isFetch ? (
+          <View style={styles.loader}>
+            <ActivityIndicator size="large" color="#0000ff" />
+          </View>
+          ) : (
+            <ScrollView>
+              {this.renderProfile()}
+            </ScrollView>
+          )
+        }
+      </View>
     );
   }
 }
 
-Profile.defaultProps = { ...me };
-
-export default Profile;
+const styles = StyleSheet.create({
+  loader: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  }
+});

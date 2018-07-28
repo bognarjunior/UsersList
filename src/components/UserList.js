@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { ScrollView, ActivityIndicator } from 'react-native';
+import { ScrollView, ActivityIndicator, StyleSheet, View } from 'react-native';
 import { List, ListItem } from 'react-native-elements';
 import { getUserList } from './../api';
 
@@ -16,12 +16,9 @@ export default class UserList extends Component {
 
   fetchUsers = async () => {
     const data =  await getUserList();
-
-    this.setState({
-      users: data.result,
-      isFetch: data.isFetch,
-      info: data.info
-    });
+    this.setState({ users: data.result });
+    this.setState({ isFetch: data.isFetch });
+    this.setState({ info: data.info });
   }
 
   onNavigateToDetails = (user) => {
@@ -46,14 +43,26 @@ export default class UserList extends Component {
 
   render() {
     return (
-      <ScrollView>
+      <View style={{ flex: 1 }}>
         { !this.state.isFetch ? (
-          <ActivityIndicator size="large" color="#0000ff" />
+          <View style={styles.loader}>
+            <ActivityIndicator size="large" color="#0000ff" />
+          </View>
           ) : (
-            this.renderUser()
+            <ScrollView>
+              {this.renderUser()}
+            </ScrollView>
           )
         }
-      </ScrollView>
+      </View>
     );
   }
 }
+
+const styles = StyleSheet.create({
+  loader: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  }
+});
