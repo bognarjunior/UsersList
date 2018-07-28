@@ -15,7 +15,6 @@ export default class Profile extends Component {
 
   fetchUser = async () => {
     const data =  await getUser();
-    console.log('data', data)
     this.setState({ user: data.user });
     this.setState({ isFetch: data.isFetch });
   }
